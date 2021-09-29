@@ -201,3 +201,9 @@ section h1{
     letter-spacing: 5px;
     font-size: 115%;
 }
+
+@media only screen and (max-width: 900px){
+    .sma, .stay{
+        display: none;
+    }
+}
